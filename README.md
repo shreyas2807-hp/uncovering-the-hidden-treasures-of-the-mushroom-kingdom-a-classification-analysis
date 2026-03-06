@@ -1,2 +1,2 @@
-# uncovering-the-hidden-treasures-of-the-mushroom-kingdom-a-classification-analysis
-Uncovering the Hidden Treasures of the Mushroom Kingdom is a machine learning project that analyzes mushroom characteristics such as cap shape, odor, gill size, and habitat to classify mushrooms as edible or poisonous. The project uses data preprocessing, visualization, and classification algorithms to build an accurate predictive model
+# AI-Mushroom-Classification-Analysis
+Uncovering the Hidden Treasures of the Mushroom Kingdom: A Classification Analysis
